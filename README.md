@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @teukuarinal
-- 👀 I’m interested in Software QA Engineer/ Software Development Engineer Testing.
-- 🌱 I’m currently learning Selenium WebDriver, Postman, JMeter, Katalon.
-- 💞️ I’m looking for the new oppurtunity to find bugs & assure your software/product quality.
+- 👀 I’m interested in Software Quality Assurance Engineer
+- 🌱 I’m currently learning Selenium WebDriver, Newman, JMeter, Appium, Cypress, and Katalon.
 - 📫 How to reach me linkedIn (https://www.linkedin.com/in/teukuarinalwakil/)
 
 <!--
