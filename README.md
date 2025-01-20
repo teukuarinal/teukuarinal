@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @teukuarinal
-- 👀 I’m interested in Software Quality Assurance Engineer
-- 🌱 I’m currently learning Selenium WebDriver, Newman, JMeter, Appium, Cypress, and Katalon.
-- 📫 How to reach me linkedIn (https://www.linkedin.com/in/teukuarinalwakil/)
+# Hi there, I'm Teuku Arinal Wakil  
+
+I'm a **Software Quality Assurance Engineer** with a strong focus on automation and ensuring the delivery of high-quality software solutions.  
+
+## 🛠️ Skills and Expertise  
+- **Automation Tools**: Selenium WebDriver, Cypress, Appium, WebdriverIO  
+- **Testing**: Web, Mobile, API, Performance Testing
+
+I am committed to continuous learning and leveraging modern tools and methodologies to enhance software quality and user satisfaction.  
+
+## 📫 Connect with Me  
+- **LinkedIn**: [Teuku Arinal Wakil](https://www.linkedin.com/in/teukuarinalwakil/)  
+
+Feel free to explore my repositories and reach out for collaboration or discussions on software testing and quality assurance!  
 
 <!--
 **teukuarinal/teukuarinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
